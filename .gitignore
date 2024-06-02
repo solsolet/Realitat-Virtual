@@ -1,0 +1,8 @@
+/Config
+/Content
+/Plugins
+/Source
+*.uproject
+
+/Intermediate
+/Binaries
