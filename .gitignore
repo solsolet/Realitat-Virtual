@@ -4,6 +4,6 @@
 /Source
 *.uproject
 
-/Intermediate
 /Binaries
-/paq
+/Android_ASTC
+/Saved
