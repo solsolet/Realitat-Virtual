@@ -4,7 +4,8 @@
 		{
 			"ShaderMapHash": "4FEE26C7B7320795DB3CCBF4C01E3A1076EB64DD",
 			"Assets": [
-				"/MixedRealityCaptureFramework/M_GarbageMatte"
+				"/MixedRealityCaptureFramework/M_GarbageMatte",
+				"/Engine/BufferVisualization/BaseColor"
 			]
 		},
 		{
@@ -73,8 +74,7 @@
 			"ShaderMapHash": "F65F85D879C59DE74A44ABA1E3686021CDE2F7F1",
 			"Assets": [
 				"/OculusVR/Materials/OculusMR_OpaqueColoredMaterial",
-				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color",
-				"/Game/M_Target"
+				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color"
 			]
 		},
 		{
@@ -291,6 +291,18 @@
 			"ShaderMapHash": "1FB9B5097FD93340B15EF46BE56C6A68E1FB9DC9",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "6A60A76F417AEF22F0F8AC0C874796ACA12FF4B6",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CC7AF3A498F214E8FBC70CDBCA1E554192809CAC",
+			"Assets": [
+				"/Engine/MapTemplates/Materials/BasicAsset01"
 			]
 		}
 	]
