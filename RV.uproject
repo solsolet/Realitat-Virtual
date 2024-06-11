@@ -2,19 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.27",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "MixedRealityCaptureFramework",
-			"Enabled": true
-		},
-		{
-			"Name": "WindowsMixedReality",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"HoloLens"
-			]
-		}
-	]
+	"Description": ""
 }
